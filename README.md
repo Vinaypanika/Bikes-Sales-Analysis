@@ -60,5 +60,5 @@ A pair plot was created to visualize relationships between selected numerical fe
 For any questions or feedback, please reach out to:
 
 - **Email**: vinaypanika@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vinaykumarpanika)
-- **GitHub**: [GitHub Profile](https://github.com/Vinaypanika)
+- **LinkedIn**: [Vinay Kumar Panika](https://www.linkedin.com/in/vinaykumarpanika)
+- **GitHub**: [Vinaypanika](https://github.com/Vinaypanika)
